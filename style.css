@@ -342,6 +342,7 @@ main .main__wrapper div div p {
   width: 1920px;
   height: 450px;
   background-image: url(./images/map.jpg);
+  width: 100%;
 }
 
 footer {
