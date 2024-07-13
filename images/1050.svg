@@ -1,0 +1,16 @@
+<svg width="200" height="160" viewBox="0 0 200 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="160" fill="#E5E5E5"/>
+<g clip-path="url(#clip0_0_1)">
+<rect width="1920" height="3282" transform="translate(-1115 -2310)" fill="#2F343A"/>
+<rect x="-360" y="-240" width="410" height="482" fill="#393F47"/>
+<rect x="0.125" y="0.125" width="199.75" height="159.75" fill="white" stroke="#C8A35F" stroke-width="0.25"/>
+<text fill="#2F343A" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="55" font-weight="bold" letter-spacing="0.05em"><tspan x="31.8359" y="82.0254">1500</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0.05em"><tspan x="41.1027" y="108.699">&#x441;&#x43e;&#x442;&#x440;&#x443;&#x434;&#x43d;&#x438;&#x43a;&#x43e;&#x432;</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="12" letter-spacing="0em"><tspan x="52" y="135.133">&#x43f;&#x440;&#x43e;&#x444;&#x435;&#x441;&#x441;&#x438;&#x43e;&#x43d;&#x430;&#x43b;&#x43e;&#x432;</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="3282" fill="white" transform="translate(-1115 -2310)"/>
+</clipPath>
+</defs>
+</svg>
